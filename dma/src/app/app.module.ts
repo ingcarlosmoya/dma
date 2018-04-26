@@ -4,11 +4,13 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 
 import { AppComponent } from './app.component';
+import { ArticleIntroComponent } from './article/article-intro/article-intro.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ArticleIntroComponent
   ],
   imports: [
     NgbModule.forRoot(),

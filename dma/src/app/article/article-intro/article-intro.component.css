@@ -1,0 +1,23 @@
+.article-intro {
+    padding: 15px 10px 10px 0px;
+}
+.article-intro hr{
+    margin-top: 3px;
+    margin-bottom: 1px;
+}
+.article-intro-container {
+    width: 100%;
+}
+
+.article-title {
+    font-size: 15px;
+    text-align: left;
+}
+.article-description {
+    font-size: 13px;
+    text-align: right;
+}
+.article-date {
+    font-size: 11px;
+    text-align: right;
+}
